@@ -39,5 +39,5 @@ function drawP5(startX, startY) {
   fill(255);
   textStyle(BOLD);
   textSize(140);
-  text("p5*", startX + 10, startY + 200);
+  text("P5*", startX + 10, startY + 200);
 }
